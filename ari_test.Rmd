@@ -1,0 +1,31 @@
+---
+title: "Data Science Track"
+author: "computer matt"
+output: ioslides_presentation
+---
+
+<!--
+Hello, and welcome to this short presentation about data science, where we will explore the programming language R.
+-->
+
+## What is Data science?
+
+- Data science is really
+
+<!-- In this track, you will learn a lot of things. Some will be useful. Some will not. -->
+
+## Technology
+
+- Markdown
+- R
+- And now descript
+
+<!--
+We will integrate several technologies, including: markdown, R, and now descript.
+-->
+
+## Conclusion
+
+<!--
+Thank you for watching this video! You, are awesome. 
+-->
